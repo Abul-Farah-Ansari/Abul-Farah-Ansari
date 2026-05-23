@@ -20,7 +20,7 @@ Always learning new technologies and improving development skills.
 - 💻 Passionate about frontend development
 - 🚀 Love building responsive websites
 - 📍 Kolkata, India
-- 📫 Email: **dwe.golden@gmail.com**
+- 📫 Email: **abulnirsa@gmail.com**
 
 ---
 
